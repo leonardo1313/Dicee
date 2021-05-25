@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="roll_button">Baci kocke</string>
+    <string name="dice1_image">Kocka 1</string>
+    <string name="dice2_image">Kocka 2</string>
+    <string name="dicee_logo">Logo</string>
+</resources>
